@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "name": "just-volleyball-assets",
+  "owner": "Ashtonite365",
+  "repo": "Ashtonite365/just-volleyball-assets",
+  "manifest_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/manifest.json",
+  "updated": "2026-11-25T06:10:00+11:00",
+  "policy": {
+    "auto_download": "textures_and_models_only",
+    "never": [
+      "code",
+      "exe",
+      "pck",
+      "dll",
+      "game_files",
+      "extracted_game_assets"
+    ]
+  },
+  "items": [
+    {
+      "id": "1006",
+      "name": "Galaxy",
+      "label": "Galaxy",
+      "type": "ball",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "f53a5c624b816c465c0b0b1326a06e60c6f9571e6b4ab260449c2ee0b5a4906b",
+      "size": 1422291,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/pack.zip",
+      "path": "balls/1006_galaxy",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "cd07865ac05578c86cca8b01f7a4f7a512fd54175e6d358ede2e6d19bfce6616",
+          "size": 231,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/skin.json"
+        },
+        {
+          "path": "ball_tex.png",
+          "sha256": "6a2a6f68642b28d1998a453c33e47c7e6eef07dc7dfe123628a85d6feb1e99dc",
+          "size": 1261387,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/ball_tex.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "143d7f014caaaf1260d8703c0f0a3862effaed38745167858db5145fafda6019",
+          "size": 160998,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1010",
+      "name": "Fire & Lava",
+      "label": "Fire",
+      "type": "ball",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "2da4c2f2c13f94f1085c06044452ba8584a149c2b23dfdcafa691f7b177f37a6",
+      "size": 1980531,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/pack.zip",
+      "path": "balls/1010_fire_lava",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "418a8f52a56e8c379bcf14413d467d0c6683171982cd5346f99bead2dc4d68ea",
+          "size": 234,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/skin.json"
+        },
+        {
+          "path": "ball_tex.png",
+          "sha256": "3bc8059fafaa79e20de7ff7e39fdf29eed8cffd7695563fb24acd2581d40cb5a",
+          "size": 1769973,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/ball_tex.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "4a6fe513608e90297eb0fec26ab50531baaf983203a31e086efbdcee28a089cc",
+          "size": 209926,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1011",
+      "name": "Beach Ball",
+      "label": "Beach",
+      "type": "ball",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "e7e5440b7807bf996e815b74c67c93e180979cdc47033a60993c736c8f564450",
+      "size": 53904,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/pack.zip",
+      "path": "balls/1011_beach",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "00e84d618e25e7bdfa93695c066d6b19766f0eef09f91a8e41f4c9fc31192b66",
+          "size": 234,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/skin.json"
+        },
+        {
+          "path": "ball_tex.png",
+          "sha256": "71dd2e5bd972790f59ccb61f7428216f647b753e9bf7b2472d871a2335052549",
+          "size": 14870,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/ball_tex.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "dddef7ec2d7672367f78f8b1fd7adba7b716c6a355ac52c1d0b64adb445bb0dd",
+          "size": 48140,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1012",
+      "name": "Classic Tri-Colour",
+      "label": "Tri-Colour",
+      "type": "ball",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "f0877709bef96c10e3aeda741f7f99adb93747409ab29c00d413dca4fa7ca2e2",
+      "size": 185670,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/pack.zip",
+      "path": "balls/1012_tricolor",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "895ca1c3b47260dbee3707b704698d274756f8cc62caed3db38feb3f5fa280e0",
+          "size": 247,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/skin.json"
+        },
+        {
+          "path": "ball_tex.png",
+          "sha256": "bc89bae04b3d6e269d27efc2f49c0a0deb085dac67ad7a3988e23dc0b32089a6",
+          "size": 144959,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/ball_tex.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "965562543a3522a6ccafd0b861acd83f4c92505ca3bde549105fc94e312609f0",
+          "size": 40899,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1001",
+      "name": "Crimson Candy Outfit",
+      "label": "Crimson Candy",
+      "type": "outfit",
+      "kind": "skin",
+      "version": "1.0.0",
+      "sha256": "97110855d92c18d7a6f3c6896ae3e855a2285ae9078eefecf2b86375226b188c",
+      "size": 673405,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/pack.zip",
+      "path": "outfits/1001_crimson_candy",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "cbef7c8bd336a6ce7f4f5d2525eb7e66983cc66ac3b66f399cc49c34d16f9c25",
+          "size": 846,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/skin.json"
+        },
+        {
+          "path": "jersey.png",
+          "sha256": "4d17260b4678b2746ec99ad12aa3f600a9bd7394bd5f90fd71fe29d0ee3a0607",
+          "size": 7987,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/jersey.png"
+        },
+        {
+          "path": "shorts.png",
+          "sha256": "11ed7db5447b08d97a0114763488cdf158af3c5d0d3f10ed4947a5dc8852ed44",
+          "size": 942,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shorts.png"
+        },
+        {
+          "path": "shoes.png",
+          "sha256": "0b715d6d5ade05a5c753be039d7439fe696429fe96f12f0a901ee9e93764961d",
+          "size": 880,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shoes.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "c81ebe1bf542f7d774d8d9ff6ff90b65e133d4308c503df7f7af1e50d4c1da4d",
+          "size": 671144,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/preview.png"
+        }
+      ]
+    }
+  ]
+}
