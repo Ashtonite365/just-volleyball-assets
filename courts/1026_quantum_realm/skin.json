@@ -1,4 +1,49 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/court_floor.png",
+      "path": "court_floor.png",
+      "sha256": "7fbc93f6fbb10628060f862d9bfbfea407ab7982c811ab51d0a9811a1157d3aa",
+      "size": 2277
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env.glb",
+      "path": "env.glb",
+      "sha256": "9d93fbf9a4a2a62b1d50d2fb51a052d47aef7a938376548a0f0ae6d627f04db7",
+      "size": 83112
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env_lod1.glb",
+      "path": "env_lod1.glb",
+      "sha256": "9d93fbf9a4a2a62b1d50d2fb51a052d47aef7a938376548a0f0ae6d627f04db7",
+      "size": 83112
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/grass.png",
+      "path": "grass.png",
+      "sha256": "46f38306fbd4c9e649ceb427115cfce928afa2922d5f5ac90335b39747bfb70a",
+      "size": 882
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview.png",
+      "path": "preview.png",
+      "sha256": "4d2b73269d09206cb7ed35706cdb340732a1d17678708f7e34a8e0ec383b71a9",
+      "size": 184019
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview_200x86.png",
+      "path": "preview_200x86.png",
+      "sha256": "7f775798b706cde8e632060f306b95ff872e098d09a3de21c73e865e9fec09ca",
+      "size": 17522
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/sky.png",
+      "path": "sky.png",
+      "sha256": "048f8299ae29b34025d639d4617d199c2b2968d68d4aac2d929386f69ad9f367",
+      "size": 1753106
+    }
+  ],
   "id": "1026",
   "name": "Quantum Realm",
   "kind": "global",

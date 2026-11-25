@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/ball_tex.png",
+      "path": "ball_tex.png",
+      "sha256": "bc89bae04b3d6e269d27efc2f49c0a0deb085dac67ad7a3988e23dc0b32089a6",
+      "size": 144959
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/preview.png",
+      "path": "preview.png",
+      "sha256": "965562543a3522a6ccafd0b861acd83f4c92505ca3bde549105fc94e312609f0",
+      "size": 40899
+    }
+  ],
   "id": "1012",
   "name": "Classic Tri-Colour",
   "label": "Tri-Colour",

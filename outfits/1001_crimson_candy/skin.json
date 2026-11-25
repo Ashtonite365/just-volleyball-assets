@@ -1,4 +1,31 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/jersey.png",
+      "path": "jersey.png",
+      "sha256": "4d17260b4678b2746ec99ad12aa3f600a9bd7394bd5f90fd71fe29d0ee3a0607",
+      "size": 7987
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/preview.png",
+      "path": "preview.png",
+      "sha256": "c81ebe1bf542f7d774d8d9ff6ff90b65e133d4308c503df7f7af1e50d4c1da4d",
+      "size": 671144
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shoes.png",
+      "path": "shoes.png",
+      "sha256": "0b715d6d5ade05a5c753be039d7439fe696429fe96f12f0a901ee9e93764961d",
+      "size": 880
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shorts.png",
+      "path": "shorts.png",
+      "sha256": "11ed7db5447b08d97a0114763488cdf158af3c5d0d3f10ed4947a5dc8852ed44",
+      "size": 942
+    }
+  ],
   "id": "1001",
   "name": "Crimson Candy Outfit",
   "kind": "skin",

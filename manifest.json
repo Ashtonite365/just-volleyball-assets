@@ -1,191 +1,52 @@
 {
   "schema_version": 1,
-  "name": "just-volleyball-assets",
-  "owner": "Ashtonite365",
-  "repo": "Ashtonite365/just-volleyball-assets",
-  "manifest_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/manifest.json",
-  "updated": "2026-11-25T06:10:00+11:00",
-  "policy": {
-    "auto_download": "textures_and_models_only",
-    "never": [
-      "code",
-      "exe",
-      "pck",
-      "dll",
-      "game_files",
-      "extracted_game_assets"
-    ]
-  },
   "items": [
-    {
-      "id": "1006",
-      "name": "Galaxy",
-      "label": "Galaxy",
-      "type": "ball",
-      "kind": "global",
-      "version": "1.0.0",
-      "sha256": "f53a5c624b816c465c0b0b1326a06e60c6f9571e6b4ab260449c2ee0b5a4906b",
-      "size": 1422291,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/pack.zip",
-      "path": "balls/1006_galaxy",
-      "files": [
-        {
-          "path": "skin.json",
-          "sha256": "cd07865ac05578c86cca8b01f7a4f7a512fd54175e6d358ede2e6d19bfce6616",
-          "size": 231,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/skin.json"
-        },
-        {
-          "path": "ball_tex.png",
-          "sha256": "6a2a6f68642b28d1998a453c33e47c7e6eef07dc7dfe123628a85d6feb1e99dc",
-          "size": 1261387,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/ball_tex.png"
-        },
-        {
-          "path": "preview.png",
-          "sha256": "143d7f014caaaf1260d8703c0f0a3862effaed38745167858db5145fafda6019",
-          "size": 160998,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/preview.png"
-        }
-      ]
-    },
-    {
-      "id": "1010",
-      "name": "Fire & Lava",
-      "label": "Fire",
-      "type": "ball",
-      "kind": "global",
-      "version": "1.0.0",
-      "sha256": "2da4c2f2c13f94f1085c06044452ba8584a149c2b23dfdcafa691f7b177f37a6",
-      "size": 1980531,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/pack.zip",
-      "path": "balls/1010_fire_lava",
-      "files": [
-        {
-          "path": "skin.json",
-          "sha256": "418a8f52a56e8c379bcf14413d467d0c6683171982cd5346f99bead2dc4d68ea",
-          "size": 234,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/skin.json"
-        },
-        {
-          "path": "ball_tex.png",
-          "sha256": "3bc8059fafaa79e20de7ff7e39fdf29eed8cffd7695563fb24acd2581d40cb5a",
-          "size": 1769973,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/ball_tex.png"
-        },
-        {
-          "path": "preview.png",
-          "sha256": "4a6fe513608e90297eb0fec26ab50531baaf983203a31e086efbdcee28a089cc",
-          "size": 209926,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/preview.png"
-        }
-      ]
-    },
-    {
-      "id": "1011",
-      "name": "Beach Ball",
-      "label": "Beach",
-      "type": "ball",
-      "kind": "global",
-      "version": "1.0.0",
-      "sha256": "e7e5440b7807bf996e815b74c67c93e180979cdc47033a60993c736c8f564450",
-      "size": 53904,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/pack.zip",
-      "path": "balls/1011_beach",
-      "files": [
-        {
-          "path": "skin.json",
-          "sha256": "00e84d618e25e7bdfa93695c066d6b19766f0eef09f91a8e41f4c9fc31192b66",
-          "size": 234,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/skin.json"
-        },
-        {
-          "path": "ball_tex.png",
-          "sha256": "71dd2e5bd972790f59ccb61f7428216f647b753e9bf7b2472d871a2335052549",
-          "size": 14870,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/ball_tex.png"
-        },
-        {
-          "path": "preview.png",
-          "sha256": "dddef7ec2d7672367f78f8b1fd7adba7b716c6a355ac52c1d0b64adb445bb0dd",
-          "size": 48140,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/preview.png"
-        }
-      ]
-    },
-    {
-      "id": "1012",
-      "name": "Classic Tri-Colour",
-      "label": "Tri-Colour",
-      "type": "ball",
-      "kind": "global",
-      "version": "1.0.0",
-      "sha256": "f0877709bef96c10e3aeda741f7f99adb93747409ab29c00d413dca4fa7ca2e2",
-      "size": 185670,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/pack.zip",
-      "path": "balls/1012_tricolor",
-      "files": [
-        {
-          "path": "skin.json",
-          "sha256": "895ca1c3b47260dbee3707b704698d274756f8cc62caed3db38feb3f5fa280e0",
-          "size": 247,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/skin.json"
-        },
-        {
-          "path": "ball_tex.png",
-          "sha256": "bc89bae04b3d6e269d27efc2f49c0a0deb085dac67ad7a3988e23dc0b32089a6",
-          "size": 144959,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/ball_tex.png"
-        },
-        {
-          "path": "preview.png",
-          "sha256": "965562543a3522a6ccafd0b861acd83f4c92505ca3bde549105fc94e312609f0",
-          "size": 40899,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/preview.png"
-        }
-      ]
-    },
     {
       "id": "1001",
       "name": "Crimson Candy Outfit",
-      "label": "Crimson Candy",
+      "label": "Crimson Candy Outfit",
       "type": "outfit",
       "kind": "skin",
       "version": "1.0.0",
-      "sha256": "97110855d92c18d7a6f3c6896ae3e855a2285ae9078eefecf2b86375226b188c",
-      "size": 673405,
+      "sha256": "01c1ff44bf5042ff27ab2e3709a56f1f92c659562eeca54656ffcc32bb7795db",
+      "size": 673761,
       "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/pack.zip",
       "path": "outfits/1001_crimson_candy",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "cbef7c8bd336a6ce7f4f5d2525eb7e66983cc66ac3b66f399cc49c34d16f9c25",
-          "size": 846,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/skin.json"
+          "sha256": "12077745facbb642c6382240b00bae43d81a82f830aec700833509877d790f41",
+          "size": 2114,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/skin.json"
         },
         {
           "path": "jersey.png",
           "sha256": "4d17260b4678b2746ec99ad12aa3f600a9bd7394bd5f90fd71fe29d0ee3a0607",
           "size": 7987,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/jersey.png"
-        },
-        {
-          "path": "shorts.png",
-          "sha256": "11ed7db5447b08d97a0114763488cdf158af3c5d0d3f10ed4947a5dc8852ed44",
-          "size": 942,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shorts.png"
-        },
-        {
-          "path": "shoes.png",
-          "sha256": "0b715d6d5ade05a5c753be039d7439fe696429fe96f12f0a901ee9e93764961d",
-          "size": 880,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shoes.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/jersey.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/jersey.png"
         },
         {
           "path": "preview.png",
           "sha256": "c81ebe1bf542f7d774d8d9ff6ff90b65e133d4308c503df7f7af1e50d4c1da4d",
           "size": 671144,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/preview.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/preview.png"
+        },
+        {
+          "path": "shoes.png",
+          "sha256": "0b715d6d5ade05a5c753be039d7439fe696429fe96f12f0a901ee9e93764961d",
+          "size": 880,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shoes.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shoes.png"
+        },
+        {
+          "path": "shorts.png",
+          "sha256": "11ed7db5447b08d97a0114763488cdf158af3c5d0d3f10ed4947a5dc8852ed44",
+          "size": 942,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shorts.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/shorts.png"
         }
       ]
     },
@@ -196,28 +57,31 @@
       "type": "accessory",
       "kind": "skin",
       "version": "1.0.0",
-      "sha256": "4a8ecc53cd72d37749ea2a213c092ee67b1f7848890de63c808ca9a63aa0cd4e",
-      "size": 837217,
+      "sha256": "ab0a90db6f5393bb549e401c57d59f48e7baa7a295cef438378299dbbf44d3e2",
+      "size": 837473,
       "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/pack.zip",
       "path": "accessories/1002_champion_cap",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "b7382f7bddd82cc4dbae3a168f86d5a83b55fad3488940d3cb061b9d5a2f14e7",
-          "size": 1118,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/skin.json"
+          "sha256": "7c516cd1794cdac14cd15b735d339753d07857477fc54745d7892bd58803ace7",
+          "size": 1835,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/skin.json"
         },
         {
           "path": "cap.glb",
           "sha256": "01cd39f32c6695465d13c1d61e0c62339b9bdeab487f4cb6c998a91a724e928a",
           "size": 426464,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/cap.glb"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/cap.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/cap.glb"
         },
         {
           "path": "preview.png",
           "sha256": "cbb5d561a29f91ac1ea09b8889d3bebe18ffd981ad0ad8fa5e4e3d609f011627",
           "size": 701312,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/preview.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/preview.png"
         }
       ]
     },
@@ -228,308 +92,171 @@
       "type": "accessory",
       "kind": "skin",
       "version": "1.0.0",
-      "sha256": "3b6118e1d071471851dc3a47685c1931e6bcfda769751fd91d9af471c247c7c9",
-      "size": 920132,
+      "sha256": "ae20eaf379d20f840ecbdacd3bcddc260984280d9b3e105dd514543780227a48",
+      "size": 920392,
       "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/pack.zip",
       "path": "accessories/1003_flame_tail",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "9cb7230600e4c3a6348cfdb894d3d9ab5716aab92ef6d9e18894e00562391c6d",
-          "size": 430,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/skin.json"
-        },
-        {
-          "path": "tail.glb",
-          "sha256": "42b6bb8b7c61288f478902d83ca2d308d6d0d71f690c2f2952ca53a58252a53c",
-          "size": 2906800,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/tail.glb"
+          "sha256": "3c117eefc9d0627f25e5e8794ebb448faddb264183c432849e5c849d065444c4",
+          "size": 1144,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/skin.json"
         },
         {
           "path": "preview.png",
           "sha256": "4059b17e386b73260784fd2e6d2119fb363f6edc0925dd76c3c1a378d57b6df2",
           "size": 497622,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/preview.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/preview.png"
+        },
+        {
+          "path": "tail.glb",
+          "sha256": "42b6bb8b7c61288f478902d83ca2d308d6d0d71f690c2f2952ca53a58252a53c",
+          "size": 2906800,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/tail.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/tail.glb"
         }
       ]
     },
     {
-      "id": "1022",
-      "name": "Orbit Deck",
-      "label": "Orbit Deck",
-      "type": "stage",
+      "id": "1006",
+      "name": "Galaxy",
+      "label": "Galaxy",
+      "type": "ball",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "3526605d61c2994c3c6399f4b4c2a062c1e01c3bafeb8428b392e43e836904b1",
-      "size": 873308,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/pack.zip",
-      "path": "courts/1022_orbit_deck",
+      "sha256": "00370fae4ae563afa2ea2f397d30c38b8612464fed3724a651a0561829cb819c",
+      "size": 1422538,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/pack.zip",
+      "path": "balls/1006_galaxy",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "349d2ce3d5290307ed76b90c862ac56bbd4fe5c15c97ae2b370ecb33f0b284d3",
-          "size": 964,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/skin.json"
+          "sha256": "9f16635a41c8dbe3b5b8591b2ecf1d1f640747fefb0c28a70dadfa262626d92e",
+          "size": 923,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/skin.json"
         },
         {
-          "path": "env.glb",
-          "sha256": "6b2ef3b3379f0f012a15e77128a9dc3f3090c3fc21226de50188224b93f760ae",
-          "size": 72656,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env.glb"
-        },
-        {
-          "path": "env_lod1.glb",
-          "sha256": "6b2ef3b3379f0f012a15e77128a9dc3f3090c3fc21226de50188224b93f760ae",
-          "size": 72656,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env_lod1.glb"
-        },
-        {
-          "path": "sky.png",
-          "sha256": "fc9ab6622af1f001d675ace6ad93195ab46e0291b70015782a0366576e57e3ea",
-          "size": 682333,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/sky.png"
-        },
-        {
-          "path": "court_floor.png",
-          "sha256": "b97a7b9a3c9f602511efe38a6779fdef975b4183cb0cc9583dfea08580ae3e55",
-          "size": 2263,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/court_floor.png"
-        },
-        {
-          "path": "grass.png",
-          "sha256": "94a8a8cde718f8948db2a6d627d769745acc5756de7640f1005daa9846ace832",
-          "size": 857,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/grass.png"
+          "path": "ball_tex.png",
+          "sha256": "6a2a6f68642b28d1998a453c33e47c7e6eef07dc7dfe123628a85d6feb1e99dc",
+          "size": 1261387,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/ball_tex.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/ball_tex.png"
         },
         {
           "path": "preview.png",
-          "sha256": "8c3c04e30b32f83b332382f0c58c9d714e66714cc9aa72f9da0e6f43e4e353cf",
-          "size": 142081,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview.png"
-        },
-        {
-          "path": "preview_200x86.png",
-          "sha256": "9231433634c0c3e952277353a448771f9f9ad6b2ee8f069405250bd141d1d48a",
-          "size": 16374,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview_200x86.png"
+          "sha256": "143d7f014caaaf1260d8703c0f0a3862effaed38745167858db5145fafda6019",
+          "size": 160998,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1006_galaxy/preview.png"
         }
       ]
     },
     {
-      "id": "1025",
-      "name": "Community Dojo",
-      "label": "Community Dojo",
-      "type": "stage",
+      "id": "1010",
+      "name": "Fire & Lava",
+      "label": "Fire",
+      "type": "ball",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "4b7b49f6252e4b649df04b420591a386928548216c44666ae43afb53d2d04065",
-      "size": 56116,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/pack.zip",
-      "path": "courts/1025_community_dojo",
+      "sha256": "09c7424ba502a00181bb97094be1ea1227aee617e446bf96e2304041d4cf3840",
+      "size": 1980783,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/pack.zip",
+      "path": "balls/1010_fire_lava",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "fbf60f2c5592b4fdc1a0dabdea71cd6eb437bbdb845eb24ac9effd699d1c4501",
-          "size": 1423,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/skin.json"
+          "sha256": "48aff916646e9a02f58348687d3e0d8c68abef372b8d393042453787ead08270",
+          "size": 935,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/skin.json"
         },
         {
-          "path": "env.glb",
-          "sha256": "e45dd49f225ec52bcf004a6fdbaa6882d9109a38230d7aa220a894141e3ec6a1",
-          "size": 56832,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env.glb"
-        },
-        {
-          "path": "env_lod1.glb",
-          "sha256": "522a2c1f857dfdfd56593e67bcdbd1c3fe090693c95432178a9887eb0b4dcf86",
-          "size": 34980,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env_lod1.glb"
-        },
-        {
-          "path": "sky.png",
-          "sha256": "0334c1f9b2a6bcf966d3be1c2e4546e0a87d1bb70e0a69ba834318eab2afa604",
-          "size": 8803,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/sky.png"
-        },
-        {
-          "path": "court_floor.png",
-          "sha256": "67f510176f98a678baa79dc8d07875f5957f574a8bc7e807dcbed8fba207aea7",
-          "size": 2277,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/court_floor.png"
-        },
-        {
-          "path": "grass.png",
-          "sha256": "d356954861f87c2191884f0d8fa85df8eacaff553b76745c823a11cace3b4f1d",
-          "size": 883,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/grass.png"
+          "path": "ball_tex.png",
+          "sha256": "3bc8059fafaa79e20de7ff7e39fdf29eed8cffd7695563fb24acd2581d40cb5a",
+          "size": 1769973,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/ball_tex.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/ball_tex.png"
         },
         {
           "path": "preview.png",
-          "sha256": "e2b1bb573d3ecf919b841d9542c26448adf37fb0f95f595f3e838b438d975d40",
-          "size": 26768,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview.png"
-        },
-        {
-          "path": "preview_200x86.png",
-          "sha256": "bad8da192da656c58a369bf4dae37a16c1809a861e6c4b19bed67f0c77de8b7a",
-          "size": 5499,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview_200x86.png"
+          "sha256": "4a6fe513608e90297eb0fec26ab50531baaf983203a31e086efbdcee28a089cc",
+          "size": 209926,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/preview.png"
         }
       ]
     },
     {
-      "id": "1026",
-      "name": "Quantum Realm",
-      "label": "Quantum Realm",
-      "type": "stage",
+      "id": "1011",
+      "name": "Beach Ball",
+      "label": "Beach",
+      "type": "ball",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "0253538495a928796782128ebda8d74a5f96d1423bf2b132dbe1a6fb159d8012",
-      "size": 2016743,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/pack.zip",
-      "path": "courts/1026_quantum_realm",
+      "sha256": "dadd26fd49b244e555c2e86641a952824b3832bf880aae592844b5b05936f57c",
+      "size": 54153,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/pack.zip",
+      "path": "balls/1011_beach",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "6f78ec2b4a8b27befa4d53ee16dc79fd4070ce64fe47a2549cd596109dd8e32f",
-          "size": 969,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/skin.json"
+          "sha256": "252cc8df0604d9afcd9315af81d3c89b7453b58aca74e55ce47c085c44fdaa18",
+          "size": 920,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/skin.json"
         },
         {
-          "path": "env.glb",
-          "sha256": "4930996ef3b5432000d125447ebf61283bb75d428d994ee99dc9060e26e89a23",
-          "size": 83100,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env.glb"
-        },
-        {
-          "path": "env_lod1.glb",
-          "sha256": "4930996ef3b5432000d125447ebf61283bb75d428d994ee99dc9060e26e89a23",
-          "size": 83100,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env_lod1.glb"
-        },
-        {
-          "path": "sky.png",
-          "sha256": "048f8299ae29b34025d639d4617d199c2b2968d68d4aac2d929386f69ad9f367",
-          "size": 1753106,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/sky.png"
-        },
-        {
-          "path": "court_floor.png",
-          "sha256": "7fbc93f6fbb10628060f862d9bfbfea407ab7982c811ab51d0a9811a1157d3aa",
-          "size": 2277,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/court_floor.png"
-        },
-        {
-          "path": "grass.png",
-          "sha256": "46f38306fbd4c9e649ceb427115cfce928afa2922d5f5ac90335b39747bfb70a",
-          "size": 882,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/grass.png"
+          "path": "ball_tex.png",
+          "sha256": "71dd2e5bd972790f59ccb61f7428216f647b753e9bf7b2472d871a2335052549",
+          "size": 14870,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/ball_tex.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/ball_tex.png"
         },
         {
           "path": "preview.png",
-          "sha256": "4d2b73269d09206cb7ed35706cdb340732a1d17678708f7e34a8e0ec383b71a9",
-          "size": 184019,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview.png"
-        },
-        {
-          "path": "preview_200x86.png",
-          "sha256": "7f775798b706cde8e632060f306b95ff872e098d09a3de21c73e865e9fec09ca",
-          "size": 17522,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview_200x86.png"
+          "sha256": "dddef7ec2d7672367f78f8b1fd7adba7b716c6a355ac52c1d0b64adb445bb0dd",
+          "size": 48140,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/preview.png"
         }
       ]
     },
     {
-      "id": "1027",
-      "name": "Midnight Neon Gym",
-      "label": "Midnight Neon Gym",
-      "type": "stage",
+      "id": "1012",
+      "name": "Classic Tri-Colour",
+      "label": "Tri-Colour",
+      "type": "ball",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "f07082818df6f825822810a76588ae455acdfd4b6b14da9f13027f4bae3167ce",
-      "size": 364005,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/pack.zip",
-      "path": "courts/1027_midnight_neon_gym",
+      "sha256": "436e999ca2f4940c75379d05a23bf40d91c595bf69d5ba10de9a3ab5e12699b9",
+      "size": 185918,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/pack.zip",
+      "path": "balls/1012_tricolor",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "6af9ddb6eabbcea680007520875c2185570c88e19b01562e4afa36f827186db3",
-          "size": 1430,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/skin.json"
+          "sha256": "b8059636b95b9401600caa577425e77d3197e0c1f2e6a7f51c1b566ec1cf543a",
+          "size": 943,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/skin.json"
         },
         {
-          "path": "env.glb",
-          "sha256": "f56312c0ae86157b4475e2248e3756169353ac7f217be693c5a901aae30098b4",
-          "size": 39132,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env.glb"
-        },
-        {
-          "path": "env_lod1.glb",
-          "sha256": "f56312c0ae86157b4475e2248e3756169353ac7f217be693c5a901aae30098b4",
-          "size": 39132,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env_lod1.glb"
-        },
-        {
-          "path": "sky.png",
-          "sha256": "94b6636596e784264b628c6a00f6922f9eed324e84ae0682c1bfe4714bc33f0e",
-          "size": 319155,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/sky.png"
-        },
-        {
-          "path": "court_floor.png",
-          "sha256": "d0a791e8333f4a96d8ce152c494794ff3a5a079c7c13df81f10d966cc097551e",
-          "size": 2276,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/court_floor.png"
-        },
-        {
-          "path": "grass.png",
-          "sha256": "78400328074828fdd0d56f251660b3df4fd6f9d287c78e0024718c34342fb6df",
-          "size": 881,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/grass.png"
+          "path": "ball_tex.png",
+          "sha256": "bc89bae04b3d6e269d27efc2f49c0a0deb085dac67ad7a3988e23dc0b32089a6",
+          "size": 144959,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/ball_tex.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/ball_tex.png"
         },
         {
           "path": "preview.png",
-          "sha256": "c8d56103261f39395265e0b367b6a54af3be6d1a4de5483869d0c0903f5bc68b",
-          "size": 30802,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview.png"
-        },
-        {
-          "path": "preview_200x86.png",
-          "sha256": "9c806da160b5d0a5ba42484e53ce57250a82c6de1c7942b269c38cefbcf4916b",
-          "size": 5011,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview_200x86.png"
-        }
-      ]
-    },
-    {
-      "id": "BEA0",
-      "name": "Plump Bean",
-      "label": "Plump Bean",
-      "type": "model",
-      "kind": "model",
-      "version": "1.0.0",
-      "sha256": "10531e3b10746a31812dde1efb0071d1b7e39ab6b7745182ec9ad38270da6a92",
-      "size": 298342,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/pack.zip",
-      "path": "models/BEA0_plump_bean",
-      "files": [
-        {
-          "path": "skin.json",
-          "sha256": "f0712e911bada34084d8a6c6467b9fbf6886ea4c1a28fb20d93a004cad718e5c",
-          "size": 287,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/skin.json"
-        },
-        {
-          "path": "aero_bean.glb",
-          "sha256": "eeee81dc0ecdd02b71d64975efdc2c7aed0ce42c3472a2774f7c2aed34044645",
-          "size": 621692,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/aero_bean.glb"
-        },
-        {
-          "path": "preview.png",
-          "sha256": "bde7b6466e38590f83b7e5653cabc7f40c66ae36243e77ca8beac295415e0870",
-          "size": 140484,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/preview.png"
+          "sha256": "965562543a3522a6ccafd0b861acd83f4c92505ca3bde549105fc94e312609f0",
+          "size": 40899,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1012_tricolor/preview.png"
         }
       ]
     },
@@ -540,28 +267,31 @@
       "type": "ball",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "26e2120086e97da8d902c662e87af23cf8ca91bab7e4d841b3b4f4ae451e3afa",
-      "size": 1463874,
+      "sha256": "50816e5ec597b0adcba19112e6a274be9ec218eabe3f0b7a609e827905fd2320",
+      "size": 1464127,
       "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/pack.zip",
       "path": "balls/1013_neon_synthwave",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "30db3c0b82aa48b4df4ee569511fb5830e43a9db391a15276354c65250d8a126",
-          "size": 237,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/skin.json"
+          "sha256": "d3dbb3134c7f2973b5017fc1f59f567b8c7c4eea189b75386a631bf968bf21ef",
+          "size": 953,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/skin.json"
         },
         {
           "path": "ball_tex.png",
           "sha256": "4d17db8413b696ffb9f2fa688e0b78d876c681be3594c29efa7d97bd9c236644",
           "size": 1242507,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/ball_tex.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/ball_tex.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/ball_tex.png"
         },
         {
           "path": "preview.png",
           "sha256": "af4b92c7efe5ede36a5d280c1fd1ab6ced26a2c1cfc74977fae811edc22b453b",
           "size": 227042,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/preview.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/preview.png"
         }
       ]
     },
@@ -572,28 +302,31 @@
       "type": "ball",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "43ad0f040dda8ce90f3e99c992a8bf0264ac28e6475164436de6f90e991db855",
-      "size": 722187,
+      "sha256": "b63c64e43512355b76a890e5daf6f746da3b15a876dbfd35ffaab479b60c4d5c",
+      "size": 722434,
       "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/pack.zip",
       "path": "balls/1014_watermelon",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "043f24b0d84153f88f9e9a1454e8a92f8ccd233e7cc0aecc324a40cfba729d68",
-          "size": 239,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/skin.json"
+          "sha256": "e0bcb526ada38b2882f99ed40d7940358dbb4177c4dbf01b56dcec3eb7d83efc",
+          "size": 942,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/skin.json"
         },
         {
           "path": "ball_tex.png",
           "sha256": "cf8834f3cffd2ab8b3341fd9441b1e37f32d346b354959c9502b74e3823738e1",
           "size": 608736,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/ball_tex.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/ball_tex.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/ball_tex.png"
         },
         {
           "path": "preview.png",
           "sha256": "a1d3b6771c4fec212380b74337bc1279048f441474caeaca1ea256748b04937b",
           "size": 114198,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/preview.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/preview.png"
         }
       ]
     },
@@ -604,28 +337,521 @@
       "type": "ball",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "03ec0c5c3658325bf68b7a321ff4937db67058e4e07b700d8e922a94d5586541",
-      "size": 877783,
+      "sha256": "29fe12302559306bdb4394c01bf70bad40ec90478404f5167766f2da74ea59a4",
+      "size": 878032,
       "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/pack.zip",
       "path": "balls/1015_retro_leather",
       "files": [
         {
           "path": "skin.json",
-          "sha256": "cb925317b9d8e2783e004e5183c2f05519379844d91951a567d363a7946f402f",
-          "size": 239,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/skin.json"
+          "sha256": "ef82efda5fbffc9a30eb9fe3e7f631eb564279936c092fcc0cfa8f16e165e154",
+          "size": 951,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/skin.json"
         },
         {
           "path": "ball_tex.png",
           "sha256": "a0339640419e8239f1866c7e70fe6ff423d60d02550aa4aef4d003ab35118756",
           "size": 756465,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/ball_tex.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/ball_tex.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/ball_tex.png"
         },
         {
           "path": "preview.png",
           "sha256": "e4f426b9514e298ee419829ac65414f6c0ad42d392a72dcae8fd8fbae7c741f5",
           "size": 121274,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/preview.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1020",
+      "name": "Sunset Pier",
+      "label": "Sunset Pier",
+      "type": "stage",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "a9a292ee4017bcc12e08723ce04efd0547fe3dbcce910a91e247644ce521fa90",
+      "size": 335737,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/pack.zip",
+      "path": "courts/1020_sunset_pier",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "8d40760954b025a8711e3423cdd35c37645cfe065f1640ac55dc910a220c938d",
+          "size": 3075,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/skin.json"
+        },
+        {
+          "path": "court_floor.png",
+          "sha256": "2deef6896bc00e3a49c1638b3dac5d2647ec099c419311585da72c302d2523e4",
+          "size": 2276,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/court_floor.png"
+        },
+        {
+          "path": "env.glb",
+          "sha256": "c7fe4ac7379a4b734624dbe920950839867fe5735de366232aee0cc68d0c617f",
+          "size": 929516,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/env.glb"
+        },
+        {
+          "path": "env_lod1.glb",
+          "sha256": "084276b479668045ac939511c7b929d317f3f6c02abcd1c1647b17cd9649c48b",
+          "size": 802064,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/env_lod1.glb"
+        },
+        {
+          "path": "grass.png",
+          "sha256": "275ee02d335a3b1e14e020625c419e32697972ebcb76dc8a4f6007fc0c2fdce6",
+          "size": 884,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/grass.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "a4136aeaa43d509531da0e8d784c2e5713af4e242b9ec60f04f89de72d1fe89f",
+          "size": 4427,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/preview.png"
+        },
+        {
+          "path": "preview_200x86.png",
+          "sha256": "1239a844e42f3c9a01f88f8ee3dd6feccb2087ead3a8ba5a41e42ecb5b3a3b75",
+          "size": 2750,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/preview_200x86.png"
+        },
+        {
+          "path": "sky.png",
+          "sha256": "6a4697fb205d88db87191d9aabe81d3f24a82c591f86efda7152740d40df6ba2",
+          "size": 60844,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/sky.png"
+        }
+      ]
+    },
+    {
+      "id": "1021",
+      "name": "Inside a Monster",
+      "label": "Inside a Monster",
+      "type": "stage",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "0bdc2ef9f16b3ca239e1095302da6f747fae4ae1b36025d6f34377d868205b5a",
+      "size": 1635329,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/pack.zip",
+      "path": "courts/1021_inside_a_monster",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "28f0392b5e6593dc267cba47860a0e0fd4d0fbcd48ffd20cacb3f456276e0669",
+          "size": 3353,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/skin.json"
+        },
+        {
+          "path": "court_floor.png",
+          "sha256": "9fcfd243792244dcc878ec5c60a6ece56d4fb40344a3af11d570e4d007493e86",
+          "size": 2352,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/court_floor.png"
+        },
+        {
+          "path": "env.glb",
+          "sha256": "88f3c300fa884f355381d7eafb05b3498f7e161607bdb3e7db22cef69b702d33",
+          "size": 158248,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/env.glb"
+        },
+        {
+          "path": "env_lod1.glb",
+          "sha256": "88f3c300fa884f355381d7eafb05b3498f7e161607bdb3e7db22cef69b702d33",
+          "size": 158248,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/env_lod1.glb"
+        },
+        {
+          "path": "grass.png",
+          "sha256": "8f6ace79a9795bb30e225da68124902dc6c6ddf7a9a728f16075831745e4f40c",
+          "size": 217212,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/grass.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "7032e17208f144e78fa8933288c05df506a83787772f69cb757426065c311daa",
+          "size": 138368,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/preview.png"
+        },
+        {
+          "path": "preview_200x86.png",
+          "sha256": "dd5443f6d052ad2a0845d6a20bc57325fb57f82e18b27a269d373ef8c574aee3",
+          "size": 8314,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/preview_200x86.png"
+        },
+        {
+          "path": "sky.png",
+          "sha256": "ec0fe0a63d2b389f8200cfe9a22e2182c44ff9f79eee7170f38151fc3d8fe0fc",
+          "size": 1117911,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/sky.png"
+        }
+      ]
+    },
+    {
+      "id": "1022",
+      "name": "Orbit Deck",
+      "label": "Orbit Deck",
+      "type": "stage",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "afb656c91999a89c831822da509aad9c8d958783eaa7d5f5d3854379c2f1fcfe",
+      "size": 873794,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/pack.zip",
+      "path": "courts/1022_orbit_deck",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "fd430511c1ded1c07218e6597d98d8174a5f31a48bf579bf8ac5be5239d755f6",
+          "size": 3064,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/skin.json"
+        },
+        {
+          "path": "court_floor.png",
+          "sha256": "b97a7b9a3c9f602511efe38a6779fdef975b4183cb0cc9583dfea08580ae3e55",
+          "size": 2263,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/court_floor.png"
+        },
+        {
+          "path": "env.glb",
+          "sha256": "6b2ef3b3379f0f012a15e77128a9dc3f3090c3fc21226de50188224b93f760ae",
+          "size": 72656,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env.glb"
+        },
+        {
+          "path": "env_lod1.glb",
+          "sha256": "6b2ef3b3379f0f012a15e77128a9dc3f3090c3fc21226de50188224b93f760ae",
+          "size": 72656,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env_lod1.glb"
+        },
+        {
+          "path": "grass.png",
+          "sha256": "94a8a8cde718f8948db2a6d627d769745acc5756de7640f1005daa9846ace832",
+          "size": 857,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/grass.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "8c3c04e30b32f83b332382f0c58c9d714e66714cc9aa72f9da0e6f43e4e353cf",
+          "size": 142081,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview.png"
+        },
+        {
+          "path": "preview_200x86.png",
+          "sha256": "9231433634c0c3e952277353a448771f9f9ad6b2ee8f069405250bd141d1d48a",
+          "size": 16374,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview_200x86.png"
+        },
+        {
+          "path": "sky.png",
+          "sha256": "fc9ab6622af1f001d675ace6ad93195ab46e0291b70015782a0366576e57e3ea",
+          "size": 682333,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/sky.png"
+        }
+      ]
+    },
+    {
+      "id": "1023",
+      "name": "Snow Court",
+      "label": "Snow Court",
+      "type": "stage",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "de9b42cf4ad75892f9c8fd00012aa294360e003ad4288ae75ce37f7cf95633ca",
+      "size": 640037,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/pack.zip",
+      "path": "courts/1023_snow_court",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "cdcdb06b5bd6154f5bf7f50bece0c5cd33da34864ff3e4a91833d0df07dbdce6",
+          "size": 3066,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/skin.json"
+        },
+        {
+          "path": "court_floor.png",
+          "sha256": "00569b0ae0fceca116ad75c374b84b58439d1e83512ad8f607ffe9f3ec1ab493",
+          "size": 2279,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/court_floor.png"
+        },
+        {
+          "path": "env.glb",
+          "sha256": "3885954bbc6457e673d928f5d8e263e48bf09fa9ca4b5df357c45eec97a0f392",
+          "size": 182552,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/env.glb"
+        },
+        {
+          "path": "env_lod1.glb",
+          "sha256": "3885954bbc6457e673d928f5d8e263e48bf09fa9ca4b5df357c45eec97a0f392",
+          "size": 182552,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/env_lod1.glb"
+        },
+        {
+          "path": "grass.png",
+          "sha256": "4d2424c4ac75fd7db52ac739958eac754ab07cc8cd25daa8e264f22ecf6e1670",
+          "size": 881,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/grass.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "8f110f83d9b71983e9277077972c5f0e2fb20293a44781f5fc0bf326871af5c3",
+          "size": 3075,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/preview.png"
+        },
+        {
+          "path": "preview_200x86.png",
+          "sha256": "9f2458dae8a7ee72c360f86ee67623a618df97570a4dbe992a9b324907cb05cc",
+          "size": 1524,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/preview_200x86.png"
+        },
+        {
+          "path": "sky.png",
+          "sha256": "30bd7fbb99babb6894504c4274aaa8926805bd7abd3dc79ae17cc5fa3107daba",
+          "size": 506162,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/sky.png"
+        }
+      ]
+    },
+    {
+      "id": "1025",
+      "name": "Community Dojo",
+      "label": "Community Dojo",
+      "type": "stage",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "196aaebfbc03f391568854dd59505b647b1be70beb44906b48a862d999a79240",
+      "size": 56655,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/pack.zip",
+      "path": "courts/1025_community_dojo",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "2f1f3561344dc67527b9eda0a2b0891c2cc7303b07d8998e4264cea272a775ea",
+          "size": 3551,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/skin.json"
+        },
+        {
+          "path": "court_floor.png",
+          "sha256": "67f510176f98a678baa79dc8d07875f5957f574a8bc7e807dcbed8fba207aea7",
+          "size": 2277,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/court_floor.png"
+        },
+        {
+          "path": "env.glb",
+          "sha256": "e45dd49f225ec52bcf004a6fdbaa6882d9109a38230d7aa220a894141e3ec6a1",
+          "size": 56832,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env.glb"
+        },
+        {
+          "path": "env_lod1.glb",
+          "sha256": "522a2c1f857dfdfd56593e67bcdbd1c3fe090693c95432178a9887eb0b4dcf86",
+          "size": 34980,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env_lod1.glb"
+        },
+        {
+          "path": "grass.png",
+          "sha256": "d356954861f87c2191884f0d8fa85df8eacaff553b76745c823a11cace3b4f1d",
+          "size": 883,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/grass.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "e2b1bb573d3ecf919b841d9542c26448adf37fb0f95f595f3e838b438d975d40",
+          "size": 26768,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview.png"
+        },
+        {
+          "path": "preview_200x86.png",
+          "sha256": "bad8da192da656c58a369bf4dae37a16c1809a861e6c4b19bed67f0c77de8b7a",
+          "size": 5499,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview_200x86.png"
+        },
+        {
+          "path": "sky.png",
+          "sha256": "0334c1f9b2a6bcf966d3be1c2e4546e0a87d1bb70e0a69ba834318eab2afa604",
+          "size": 8803,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/sky.png"
+        }
+      ]
+    },
+    {
+      "id": "1026",
+      "name": "Quantum Realm",
+      "label": "Quantum Realm",
+      "type": "stage",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "cd6278295328ab160123a3eb3209a996b17b2efad0e817e754b7443c8e8a4ae8",
+      "size": 2017063,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/pack.zip",
+      "path": "courts/1026_quantum_realm",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "ede049b6e6cda86f6750433257b62eb79ce705f76cfb2c42349c8f182072d7f7",
+          "size": 3094,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/skin.json"
+        },
+        {
+          "path": "court_floor.png",
+          "sha256": "7fbc93f6fbb10628060f862d9bfbfea407ab7982c811ab51d0a9811a1157d3aa",
+          "size": 2277,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/court_floor.png"
+        },
+        {
+          "path": "env.glb",
+          "sha256": "9d93fbf9a4a2a62b1d50d2fb51a052d47aef7a938376548a0f0ae6d627f04db7",
+          "size": 83112,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env.glb"
+        },
+        {
+          "path": "env_lod1.glb",
+          "sha256": "9d93fbf9a4a2a62b1d50d2fb51a052d47aef7a938376548a0f0ae6d627f04db7",
+          "size": 83112,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/env_lod1.glb"
+        },
+        {
+          "path": "grass.png",
+          "sha256": "46f38306fbd4c9e649ceb427115cfce928afa2922d5f5ac90335b39747bfb70a",
+          "size": 882,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/grass.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "4d2b73269d09206cb7ed35706cdb340732a1d17678708f7e34a8e0ec383b71a9",
+          "size": 184019,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview.png"
+        },
+        {
+          "path": "preview_200x86.png",
+          "sha256": "7f775798b706cde8e632060f306b95ff872e098d09a3de21c73e865e9fec09ca",
+          "size": 17522,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/preview_200x86.png"
+        },
+        {
+          "path": "sky.png",
+          "sha256": "048f8299ae29b34025d639d4617d199c2b2968d68d4aac2d929386f69ad9f367",
+          "size": 1753106,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1026_quantum_realm/sky.png"
+        }
+      ]
+    },
+    {
+      "id": "1027",
+      "name": "Midnight Neon Gym",
+      "label": "Midnight Neon Gym",
+      "type": "stage",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "415834cde5f61478972304611466da2cce3938b117fd80fd97059dcb143e6b5b",
+      "size": 364505,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/pack.zip",
+      "path": "courts/1027_midnight_neon_gym",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "95b688b67d74194cb720595da7aec79fb62c8b608f2d8d63eee10ad349905b55",
+          "size": 3584,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/skin.json"
+        },
+        {
+          "path": "court_floor.png",
+          "sha256": "d0a791e8333f4a96d8ce152c494794ff3a5a079c7c13df81f10d966cc097551e",
+          "size": 2276,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/court_floor.png"
+        },
+        {
+          "path": "env.glb",
+          "sha256": "f56312c0ae86157b4475e2248e3756169353ac7f217be693c5a901aae30098b4",
+          "size": 39132,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env.glb"
+        },
+        {
+          "path": "env_lod1.glb",
+          "sha256": "f56312c0ae86157b4475e2248e3756169353ac7f217be693c5a901aae30098b4",
+          "size": 39132,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env_lod1.glb"
+        },
+        {
+          "path": "grass.png",
+          "sha256": "78400328074828fdd0d56f251660b3df4fd6f9d287c78e0024718c34342fb6df",
+          "size": 881,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/grass.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "c8d56103261f39395265e0b367b6a54af3be6d1a4de5483869d0c0903f5bc68b",
+          "size": 30802,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview.png"
+        },
+        {
+          "path": "preview_200x86.png",
+          "sha256": "9c806da160b5d0a5ba42484e53ce57250a82c6de1c7942b269c38cefbcf4916b",
+          "size": 5011,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview_200x86.png"
+        },
+        {
+          "path": "sky.png",
+          "sha256": "94b6636596e784264b628c6a00f6922f9eed324e84ae0682c1bfe4714bc33f0e",
+          "size": 319155,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/sky.png"
         }
       ]
     },
@@ -636,58 +862,101 @@
       "type": "stage",
       "kind": "global",
       "version": "1.0.0",
-      "sha256": "90e770691b33778316ce3237120136fc3a6ffe1caed6f6f1a26137bb035c279c",
-      "size": 1193207,
+      "sha256": "8b7e602b7cc3572f5bb57508b6a1723f28bbff9bddd39d5a29b3df3da553dd16",
+      "size": 1193736,
       "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/pack.zip",
       "path": "courts/1028_ocean_floor",
       "files": [
         {
+          "path": "skin.json",
+          "sha256": "bd3992dcfa0bce340c8dc0e7a5059ca48cb6cdfdcf06cb521fb9aef9bfc94cea",
+          "size": 3105,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/skin.json"
+        },
+        {
           "path": "court_floor.png",
           "sha256": "1ae57dad3da2640b8d60dd483b8d6f5853de5ff61f6b95c6328ba59f4c74809b",
           "size": 2350,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/court_floor.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/court_floor.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/court_floor.png"
         },
         {
           "path": "env.glb",
           "sha256": "9779a6942610add36db3c7f0d395bef7045d5dda2fd6000f69df428a9e09c9ba",
           "size": 177116,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/env.glb"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/env.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/env.glb"
         },
         {
           "path": "env_lod1.glb",
           "sha256": "4139b1722dc9fe7160035898e4a308cd3bc658417e95fa2feac1186c0a54c6f1",
           "size": 139540,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/env_lod1.glb"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/env_lod1.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/env_lod1.glb"
         },
         {
           "path": "grass.png",
           "sha256": "21e7d7ad5d7942a745b5e6187333a5efafb28615fcaab06ba3ea9b5b9668dda9",
           "size": 173977,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/grass.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/grass.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/grass.png"
         },
         {
           "path": "preview.png",
           "sha256": "447a7d91639a8139761593a4130fe63d26dc625dfca790a61c601f56340e6110",
           "size": 15843,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/preview.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/preview.png"
         },
         {
           "path": "preview_200x86.png",
           "sha256": "2198a7313a3bd4414c119cbc101288e8285605d84c5ba8dcda1c317510fba66e",
           "size": 5742,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/preview_200x86.png"
-        },
-        {
-          "path": "skin.json",
-          "sha256": "b1d6b46604e68c211abf2a7c91c6d410faa5aa3847757e92ec3be1d83b94319c",
-          "size": 994,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/skin.json"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/preview_200x86.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/preview_200x86.png"
         },
         {
           "path": "sky.png",
           "sha256": "1e82e425ad67ffd6ae787da6fc1f0b34f0b45cb77f04b4cbf4f00fd0b2ab40b7",
           "size": 858467,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/sky.png"
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/sky.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1028_ocean_floor/sky.png"
+        }
+      ]
+    },
+    {
+      "id": "BEA0",
+      "name": "Plump Bean",
+      "label": "Plump Bean",
+      "type": "model",
+      "kind": "model",
+      "version": "1.0.0",
+      "sha256": "759aecf6c807e5a9782681f1f047e27e3b7f414ded48ebd673ed0ecbad615b04",
+      "size": 298615,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/pack.zip",
+      "path": "models/BEA0_plump_bean",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "cee9f631866452a47736dc823a8d9a3fc04ef5dd355106dc448683cf53082198",
+          "size": 1111,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/skin.json",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/skin.json"
+        },
+        {
+          "path": "aero_bean.glb",
+          "sha256": "eeee81dc0ecdd02b71d64975efdc2c7aed0ce42c3472a2774f7c2aed34044645",
+          "size": 621692,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/aero_bean.glb",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/aero_bean.glb"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "bde7b6466e38590f83b7e5653cabc7f40c66ae36243e77ca8beac295415e0870",
+          "size": 140484,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/preview.png",
+          "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/preview.png"
         }
       ]
     }

@@ -1,0 +1,90 @@
+{
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/court_floor.png",
+      "path": "court_floor.png",
+      "sha256": "2deef6896bc00e3a49c1638b3dac5d2647ec099c419311585da72c302d2523e4",
+      "size": 2276
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/env.glb",
+      "path": "env.glb",
+      "sha256": "c7fe4ac7379a4b734624dbe920950839867fe5735de366232aee0cc68d0c617f",
+      "size": 929516
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/env_lod1.glb",
+      "path": "env_lod1.glb",
+      "sha256": "084276b479668045ac939511c7b929d317f3f6c02abcd1c1647b17cd9649c48b",
+      "size": 802064
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/grass.png",
+      "path": "grass.png",
+      "sha256": "275ee02d335a3b1e14e020625c419e32697972ebcb76dc8a4f6007fc0c2fdce6",
+      "size": 884
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/preview.png",
+      "path": "preview.png",
+      "sha256": "a4136aeaa43d509531da0e8d784c2e5713af4e242b9ec60f04f89de72d1fe89f",
+      "size": 4427
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/preview_200x86.png",
+      "path": "preview_200x86.png",
+      "sha256": "1239a844e42f3c9a01f88f8ee3dd6feccb2087ead3a8ba5a41e42ecb5b3a3b75",
+      "size": 2750
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1020_sunset_pier/sky.png",
+      "path": "sky.png",
+      "sha256": "6a4697fb205d88db87191d9aabe81d3f24a82c591f86efda7152740d40df6ba2",
+      "size": 60844
+    }
+  ],
+  "id": "1020",
+  "name": "Sunset Pier",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#e07a4a",
+    "checker_color": "#c45c32",
+    "checker_size": 2.0,
+    "line_color": "#ffe29a",
+    "grass_tex": "grass.png",
+    "grass_tint": "#f0b070",
+    "grass_tip_color": "#ffd08a",
+    "grass_patch_color": "#d47848",
+    "grass_grad_top": "#ffb070",
+    "grass_grad_bottom": "#c45a38",
+    "hill_tint": "#d46840"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 1.05,
+    "ambient": "#f0a060",
+    "fog_color": "#c45a38"
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ]
+  },
+  "type": "stage",
+  "label": "Sunset Pier",
+  "preview": "preview.png",
+  "base_stage": "tutorial"
+}

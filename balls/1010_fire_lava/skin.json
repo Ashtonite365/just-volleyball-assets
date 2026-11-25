@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/ball_tex.png",
+      "path": "ball_tex.png",
+      "sha256": "3bc8059fafaa79e20de7ff7e39fdf29eed8cffd7695563fb24acd2581d40cb5a",
+      "size": 1769973
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1010_fire_lava/preview.png",
+      "path": "preview.png",
+      "sha256": "4a6fe513608e90297eb0fec26ab50531baaf983203a31e086efbdcee28a089cc",
+      "size": 209926
+    }
+  ],
   "id": "1010",
   "name": "Fire & Lava",
   "label": "Fire",

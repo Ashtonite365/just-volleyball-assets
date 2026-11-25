@@ -1,4 +1,49 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/court_floor.png",
+      "path": "court_floor.png",
+      "sha256": "67f510176f98a678baa79dc8d07875f5957f574a8bc7e807dcbed8fba207aea7",
+      "size": 2277
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env.glb",
+      "path": "env.glb",
+      "sha256": "e45dd49f225ec52bcf004a6fdbaa6882d9109a38230d7aa220a894141e3ec6a1",
+      "size": 56832
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/env_lod1.glb",
+      "path": "env_lod1.glb",
+      "sha256": "522a2c1f857dfdfd56593e67bcdbd1c3fe090693c95432178a9887eb0b4dcf86",
+      "size": 34980
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/grass.png",
+      "path": "grass.png",
+      "sha256": "d356954861f87c2191884f0d8fa85df8eacaff553b76745c823a11cace3b4f1d",
+      "size": 883
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview.png",
+      "path": "preview.png",
+      "sha256": "e2b1bb573d3ecf919b841d9542c26448adf37fb0f95f595f3e838b438d975d40",
+      "size": 26768
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/preview_200x86.png",
+      "path": "preview_200x86.png",
+      "sha256": "bad8da192da656c58a369bf4dae37a16c1809a861e6c4b19bed67f0c77de8b7a",
+      "size": 5499
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1025_community_dojo/sky.png",
+      "path": "sky.png",
+      "sha256": "0334c1f9b2a6bcf966d3be1c2e4546e0a87d1bb70e0a69ba834318eab2afa604",
+      "size": 8803
+    }
+  ],
   "id": "1025",
   "name": "Community Dojo",
   "kind": "global",

@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/ball_tex.png",
+      "path": "ball_tex.png",
+      "sha256": "a0339640419e8239f1866c7e70fe6ff423d60d02550aa4aef4d003ab35118756",
+      "size": 756465
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/preview.png",
+      "path": "preview.png",
+      "sha256": "e4f426b9514e298ee419829ac65414f6c0ad42d392a72dcae8fd8fbae7c741f5",
+      "size": 121274
+    }
+  ],
   "id": "1015",
   "name": "Retro Leather",
   "label": "Leather",

@@ -1,4 +1,49 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/court_floor.png",
+      "path": "court_floor.png",
+      "sha256": "d0a791e8333f4a96d8ce152c494794ff3a5a079c7c13df81f10d966cc097551e",
+      "size": 2276
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env.glb",
+      "path": "env.glb",
+      "sha256": "f56312c0ae86157b4475e2248e3756169353ac7f217be693c5a901aae30098b4",
+      "size": 39132
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/env_lod1.glb",
+      "path": "env_lod1.glb",
+      "sha256": "f56312c0ae86157b4475e2248e3756169353ac7f217be693c5a901aae30098b4",
+      "size": 39132
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/grass.png",
+      "path": "grass.png",
+      "sha256": "78400328074828fdd0d56f251660b3df4fd6f9d287c78e0024718c34342fb6df",
+      "size": 881
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview.png",
+      "path": "preview.png",
+      "sha256": "c8d56103261f39395265e0b367b6a54af3be6d1a4de5483869d0c0903f5bc68b",
+      "size": 30802
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview_200x86.png",
+      "path": "preview_200x86.png",
+      "sha256": "9c806da160b5d0a5ba42484e53ce57250a82c6de1c7942b269c38cefbcf4916b",
+      "size": 5011
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/sky.png",
+      "path": "sky.png",
+      "sha256": "94b6636596e784264b628c6a00f6922f9eed324e84ae0682c1bfe4714bc33f0e",
+      "size": 319155
+    }
+  ],
   "id": "1027",
   "name": "Midnight Neon Gym",
   "kind": "global",

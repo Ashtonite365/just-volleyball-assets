@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/cap.glb",
+      "path": "cap.glb",
+      "sha256": "01cd39f32c6695465d13c1d61e0c62339b9bdeab487f4cb6c998a91a724e928a",
+      "size": 426464
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/preview.png",
+      "path": "preview.png",
+      "sha256": "cbb5d561a29f91ac1ea09b8889d3bebe18ffd981ad0ad8fa5e4e3d609f011627",
+      "size": 701312
+    }
+  ],
   "id": "1002",
   "name": "Champion Cap",
   "kind": "skin",

@@ -39,28 +39,26 @@ https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/<commit>/m
 
 ## Published packs
 
-| id | name | type | path |
-|----|------|------|------|
-| 1006 | Galaxy | ball | `balls/1006_galaxy/` |
-| 1010 | Fire & Lava | ball | `balls/1010_fire_lava/` |
-| 1011 | Beach Ball | ball | `balls/1011_beach/` |
-| 1012 | Classic Tri-Colour | ball | `balls/1012_tricolor/` |
-| 1013 | Neon Synthwave | ball | `balls/1013_neon_synthwave/` |
-| 1014 | Watermelon | ball | `balls/1014_watermelon/` |
-| 1015 | Retro Leather | ball | `balls/1015_retro_leather/` |
-| 1001 | Crimson Candy Outfit | outfit | `outfits/1001_crimson_candy/` |
-| 1002 | Champion Cap | accessory | `accessories/1002_champion_cap/` |
-| 1003 | Flame Tail | accessory | `accessories/1003_flame_tail/` |
-| 1022 | Orbit Deck | stage | `courts/1022_orbit_deck/` |
-| 1025 | Community Dojo | stage | `courts/1025_community_dojo/` |
-| 1026 | Quantum Realm | stage | `courts/1026_quantum_realm/` |
-| 1027 | Midnight Neon Gym | stage | `courts/1027_midnight_neon_gym/` |
-| 1028 | Ocean Floor | stage | `courts/1028_ocean_floor/` |
-| BEA0 | Plump Bean | model | `models/BEA0_plump_bean/` |
+Each pack folder has a `skin.json` whose first field is `source_url`, plus a `files` list with a raw download URL and sha256 for every texture (and other pack file). The same links are in `manifest.json`.
 
-Further packs will be added here as they are published.
-
-Related repositories:
-
-- Core / loader: https://github.com/Ashtonite365/just-volleyball-core
-- Mods: https://github.com/Ashtonite365/just-volleyball-mods
+| id | name | path |
+|----|------|------|
+| `1001` | Crimson Candy Outfit | `outfits/1001_crimson_candy` |
+| `1002` | Champion Cap | `accessories/1002_champion_cap` |
+| `1003` | Flame Tail | `accessories/1003_flame_tail` |
+| `1006` | Galaxy | `balls/1006_galaxy` |
+| `1010` | Fire & Lava | `balls/1010_fire_lava` |
+| `1011` | Beach Ball | `balls/1011_beach` |
+| `1012` | Classic Tri-Colour | `balls/1012_tricolor` |
+| `1013` | Neon Synthwave | `balls/1013_neon_synthwave` |
+| `1014` | Watermelon | `balls/1014_watermelon` |
+| `1015` | Retro Leather | `balls/1015_retro_leather` |
+| `1020` | Sunset Pier | `courts/1020_sunset_pier` |
+| `1021` | Inside a Monster | `courts/1021_inside_a_monster` |
+| `1022` | Orbit Deck | `courts/1022_orbit_deck` |
+| `1023` | Snow Court | `courts/1023_snow_court` |
+| `1025` | Community Dojo | `courts/1025_community_dojo` |
+| `1026` | Quantum Realm | `courts/1026_quantum_realm` |
+| `1027` | Midnight Neon Gym | `courts/1027_midnight_neon_gym` |
+| `1028` | Ocean Floor | `courts/1028_ocean_floor` |
+| `BEA0` | Plump Bean | `models/BEA0_plump_bean` |

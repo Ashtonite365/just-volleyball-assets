@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/preview.png",
+      "path": "preview.png",
+      "sha256": "4059b17e386b73260784fd2e6d2119fb363f6edc0925dd76c3c1a378d57b6df2",
+      "size": 497622
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/tail.glb",
+      "path": "tail.glb",
+      "sha256": "42b6bb8b7c61288f478902d83ca2d308d6d0d71f690c2f2952ca53a58252a53c",
+      "size": 2906800
+    }
+  ],
   "id": "1003",
   "name": "Flame Tail",
   "kind": "skin",

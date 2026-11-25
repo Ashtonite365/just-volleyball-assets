@@ -1,0 +1,103 @@
+{
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/court_floor.png",
+      "path": "court_floor.png",
+      "sha256": "9fcfd243792244dcc878ec5c60a6ece56d4fb40344a3af11d570e4d007493e86",
+      "size": 2352
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/env.glb",
+      "path": "env.glb",
+      "sha256": "88f3c300fa884f355381d7eafb05b3498f7e161607bdb3e7db22cef69b702d33",
+      "size": 158248
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/env_lod1.glb",
+      "path": "env_lod1.glb",
+      "sha256": "88f3c300fa884f355381d7eafb05b3498f7e161607bdb3e7db22cef69b702d33",
+      "size": 158248
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/grass.png",
+      "path": "grass.png",
+      "sha256": "8f6ace79a9795bb30e225da68124902dc6c6ddf7a9a728f16075831745e4f40c",
+      "size": 217212
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/preview.png",
+      "path": "preview.png",
+      "sha256": "7032e17208f144e78fa8933288c05df506a83787772f69cb757426065c311daa",
+      "size": 138368
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/preview_200x86.png",
+      "path": "preview_200x86.png",
+      "sha256": "dd5443f6d052ad2a0845d6a20bc57325fb57f82e18b27a269d373ef8c574aee3",
+      "size": 8314
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1021_inside_a_monster/sky.png",
+      "path": "sky.png",
+      "sha256": "ec0fe0a63d2b389f8200cfe9a22e2182c44ff9f79eee7170f38151fc3d8fe0fc",
+      "size": 1117911
+    }
+  ],
+  "id": "1021",
+  "name": "Inside a Monster",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#c45a62",
+    "checker_color": "#a44050",
+    "checker_size": 2.0,
+    "line_color": "#ffe6a0",
+    "grass_tex": "grass.png",
+    "grass_tint": "#c4787a",
+    "grass_tip_color": "#ffe6a0",
+    "grass_patch_color": "#8a3040",
+    "grass_grad_top": "#e8a0a0",
+    "grass_grad_bottom": "#8a3040",
+    "hill_tint": "#8a3040"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 0.95,
+    "ambient": "#e8a090",
+    "fog_color": "#8a3040"
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ],
+    "lights": [
+      {
+        "type": "omni",
+        "position": [
+          -12.472,
+          6.9,
+          -27.269
+        ],
+        "color": "#ffc070",
+        "energy": 4.2,
+        "range": 34.0
+      }
+    ]
+  },
+  "type": "stage",
+  "label": "Inside a Monster",
+  "preview": "preview.png",
+  "base_stage": "tutorial"
+}

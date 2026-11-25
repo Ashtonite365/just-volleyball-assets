@@ -1,0 +1,90 @@
+{
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/court_floor.png",
+      "path": "court_floor.png",
+      "sha256": "00569b0ae0fceca116ad75c374b84b58439d1e83512ad8f607ffe9f3ec1ab493",
+      "size": 2279
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/env.glb",
+      "path": "env.glb",
+      "sha256": "3885954bbc6457e673d928f5d8e263e48bf09fa9ca4b5df357c45eec97a0f392",
+      "size": 182552
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/env_lod1.glb",
+      "path": "env_lod1.glb",
+      "sha256": "3885954bbc6457e673d928f5d8e263e48bf09fa9ca4b5df357c45eec97a0f392",
+      "size": 182552
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/grass.png",
+      "path": "grass.png",
+      "sha256": "4d2424c4ac75fd7db52ac739958eac754ab07cc8cd25daa8e264f22ecf6e1670",
+      "size": 881
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/preview.png",
+      "path": "preview.png",
+      "sha256": "8f110f83d9b71983e9277077972c5f0e2fb20293a44781f5fc0bf326871af5c3",
+      "size": 3075
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/preview_200x86.png",
+      "path": "preview_200x86.png",
+      "sha256": "9f2458dae8a7ee72c360f86ee67623a618df97570a4dbe992a9b324907cb05cc",
+      "size": 1524
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1023_snow_court/sky.png",
+      "path": "sky.png",
+      "sha256": "30bd7fbb99babb6894504c4274aaa8926805bd7abd3dc79ae17cc5fa3107daba",
+      "size": 506162
+    }
+  ],
+  "id": "1023",
+  "name": "Snow Court",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#e8f0f8",
+    "checker_color": "#c5d4e4",
+    "checker_size": 2.0,
+    "line_color": "#3a6aa5",
+    "grass_tex": "grass.png",
+    "grass_tint": "#dce8f2",
+    "grass_tip_color": "#ffffff",
+    "grass_patch_color": "#b8cce0",
+    "grass_grad_top": "#f4f8fc",
+    "grass_grad_bottom": "#9aafc4",
+    "hill_tint": "#c8d4e0"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 1.05,
+    "ambient": "#c8d8ec",
+    "fog_color": "#d0dce8"
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ]
+  },
+  "type": "stage",
+  "label": "Snow Court",
+  "preview": "preview.png",
+  "base_stage": "tutorial"
+}

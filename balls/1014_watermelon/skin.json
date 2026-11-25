@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/ball_tex.png",
+      "path": "ball_tex.png",
+      "sha256": "cf8834f3cffd2ab8b3341fd9441b1e37f32d346b354959c9502b74e3823738e1",
+      "size": 608736
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/preview.png",
+      "path": "preview.png",
+      "sha256": "a1d3b6771c4fec212380b74337bc1279048f441474caeaca1ea256748b04937b",
+      "size": 114198
+    }
+  ],
   "id": "1014",
   "name": "Watermelon",
   "label": "Watermelon",

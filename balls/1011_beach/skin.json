@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/ball_tex.png",
+      "path": "ball_tex.png",
+      "sha256": "71dd2e5bd972790f59ccb61f7428216f647b753e9bf7b2472d871a2335052549",
+      "size": 14870
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1011_beach/preview.png",
+      "path": "preview.png",
+      "sha256": "dddef7ec2d7672367f78f8b1fd7adba7b716c6a355ac52c1d0b64adb445bb0dd",
+      "size": 48140
+    }
+  ],
   "id": "1011",
   "name": "Beach Ball",
   "label": "Beach",

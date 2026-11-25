@@ -1,2 +1,43 @@
-{"kind": "model", "id": "BEA0", "name": "Plump Bean", "model": "aero_bean.glb", "game_hands": "tint",
- "arms": {"mode": "follow_hands", "anchor_bone": "spine1", "shoulder": [0.50, 2.42, 0.0], "upper": 0.45, "lower": 0.72, "radius": [0.15, 0.16, 0.155], "elbow_hint": [1.0, -0.5, -0.6]}}
+{
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/aero_bean.glb",
+      "path": "aero_bean.glb",
+      "sha256": "eeee81dc0ecdd02b71d64975efdc2c7aed0ce42c3472a2774f7c2aed34044645",
+      "size": 621692
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/preview.png",
+      "path": "preview.png",
+      "sha256": "bde7b6466e38590f83b7e5653cabc7f40c66ae36243e77ca8beac295415e0870",
+      "size": 140484
+    }
+  ],
+  "kind": "model",
+  "id": "BEA0",
+  "name": "Plump Bean",
+  "model": "aero_bean.glb",
+  "game_hands": "tint",
+  "arms": {
+    "mode": "follow_hands",
+    "anchor_bone": "spine1",
+    "shoulder": [
+      0.5,
+      2.42,
+      0.0
+    ],
+    "upper": 0.45,
+    "lower": 0.72,
+    "radius": [
+      0.15,
+      0.16,
+      0.155
+    ],
+    "elbow_hint": [
+      1.0,
+      -0.5,
+      -0.6
+    ]
+  }
+}

@@ -1,4 +1,19 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/ball_tex.png",
+      "path": "ball_tex.png",
+      "sha256": "4d17db8413b696ffb9f2fa688e0b78d876c681be3594c29efa7d97bd9c236644",
+      "size": 1242507
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/preview.png",
+      "path": "preview.png",
+      "sha256": "af4b92c7efe5ede36a5d280c1fd1ab6ced26a2c1cfc74977fae811edc22b453b",
+      "size": 227042
+    }
+  ],
   "id": "1013",
   "name": "Neon Synthwave",
   "label": "Neon",

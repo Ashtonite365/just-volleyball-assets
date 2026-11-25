@@ -1,4 +1,49 @@
 {
+  "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/skin.json",
+  "files": [
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/court_floor.png",
+      "path": "court_floor.png",
+      "sha256": "b97a7b9a3c9f602511efe38a6779fdef975b4183cb0cc9583dfea08580ae3e55",
+      "size": 2263
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env.glb",
+      "path": "env.glb",
+      "sha256": "6b2ef3b3379f0f012a15e77128a9dc3f3090c3fc21226de50188224b93f760ae",
+      "size": 72656
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/env_lod1.glb",
+      "path": "env_lod1.glb",
+      "sha256": "6b2ef3b3379f0f012a15e77128a9dc3f3090c3fc21226de50188224b93f760ae",
+      "size": 72656
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/grass.png",
+      "path": "grass.png",
+      "sha256": "94a8a8cde718f8948db2a6d627d769745acc5756de7640f1005daa9846ace832",
+      "size": 857
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview.png",
+      "path": "preview.png",
+      "sha256": "8c3c04e30b32f83b332382f0c58c9d714e66714cc9aa72f9da0e6f43e4e353cf",
+      "size": 142081
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/preview_200x86.png",
+      "path": "preview_200x86.png",
+      "sha256": "9231433634c0c3e952277353a448771f9f9ad6b2ee8f069405250bd141d1d48a",
+      "size": 16374
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1022_orbit_deck/sky.png",
+      "path": "sky.png",
+      "sha256": "fc9ab6622af1f001d675ace6ad93195ab46e0291b70015782a0366576e57e3ea",
+      "size": 682333
+    }
+  ],
   "id": "1022",
   "name": "Orbit Deck",
   "kind": "global",
