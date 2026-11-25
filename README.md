@@ -46,6 +46,8 @@ https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/<commit>/m
 | 1011 | Beach Ball | ball | `balls/1011_beach/` |
 | 1012 | Classic Tri-Colour | ball | `balls/1012_tricolor/` |
 | 1001 | Crimson Candy Outfit | outfit | `outfits/1001_crimson_candy/` |
+| 1002 | Champion Cap | accessory | `accessories/1002_champion_cap/` |
+| 1003 | Flame Tail | accessory | `accessories/1003_flame_tail/` |
 
 Further packs will be added here as they are published.
 

@@ -188,6 +188,70 @@
           "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/outfits/1001_crimson_candy/preview.png"
         }
       ]
+    },
+    {
+      "id": "1002",
+      "name": "Champion Cap",
+      "label": "Champion Cap",
+      "type": "accessory",
+      "kind": "skin",
+      "version": "1.0.0",
+      "sha256": "4a8ecc53cd72d37749ea2a213c092ee67b1f7848890de63c808ca9a63aa0cd4e",
+      "size": 837217,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/pack.zip",
+      "path": "accessories/1002_champion_cap",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "b7382f7bddd82cc4dbae3a168f86d5a83b55fad3488940d3cb061b9d5a2f14e7",
+          "size": 1118,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/skin.json"
+        },
+        {
+          "path": "cap.glb",
+          "sha256": "01cd39f32c6695465d13c1d61e0c62339b9bdeab487f4cb6c998a91a724e928a",
+          "size": 426464,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/cap.glb"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "cbb5d561a29f91ac1ea09b8889d3bebe18ffd981ad0ad8fa5e4e3d609f011627",
+          "size": 701312,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1002_champion_cap/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1003",
+      "name": "Flame Tail",
+      "label": "Flame Tail",
+      "type": "accessory",
+      "kind": "skin",
+      "version": "1.0.0",
+      "sha256": "3b6118e1d071471851dc3a47685c1931e6bcfda769751fd91d9af471c247c7c9",
+      "size": 920132,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/pack.zip",
+      "path": "accessories/1003_flame_tail",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "9cb7230600e4c3a6348cfdb894d3d9ab5716aab92ef6d9e18894e00562391c6d",
+          "size": 430,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/skin.json"
+        },
+        {
+          "path": "tail.glb",
+          "sha256": "42b6bb8b7c61288f478902d83ca2d308d6d0d71f690c2f2952ca53a58252a53c",
+          "size": 2906800,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/tail.glb"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "4059b17e386b73260784fd2e6d2119fb363f6edc0925dd76c3c1a378d57b6df2",
+          "size": 497622,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/accessories/1003_flame_tail/preview.png"
+        }
+      ]
     }
   ]
 }
