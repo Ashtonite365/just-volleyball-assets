@@ -1,0 +1,67 @@
+{
+  "id": "1025",
+  "name": "Community Dojo",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#c4a056",
+    "checker_color": "#a88640",
+    "checker_size": 2.0,
+    "line_color": "#7a1e1e",
+    "grass_tex": "grass.png",
+    "grass_tint": "#6a8a58",
+    "grass_tip_color": "#c8d4a0",
+    "grass_patch_color": "#4e6a40",
+    "grass_grad_top": "#8aaa68",
+    "grass_grad_bottom": "#3a522c",
+    "hill_tint": "#5a6e48"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 1.0,
+    "ambient": "#e0d0b0",
+    "fog_color": "#c8b898"
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ],
+    "hide": [
+      "Gym walls",
+      "Gym walls_001",
+      "Ceiling beams",
+      "Ceiling tubes",
+      "Ceiling tubes L",
+      "Ceiling tubes mirror",
+      "Lights",
+      "Seats",
+      "Seats (corner)",
+      "Rows (black)",
+      "Handrails",
+      "Handrails ",
+      "Handrails (corner)",
+      "Pillars",
+      "Pillars (side)",
+      "Top floor",
+      "Gym doors",
+      "GymMats",
+      "Step First",
+      "Steps (gray_metal)"
+    ]
+  },
+  "type": "stage",
+  "label": "Community Dojo",
+  "preview": "preview.png",
+  "base_stage": "school"
+}

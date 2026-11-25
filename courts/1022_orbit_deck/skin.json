@@ -1,0 +1,45 @@
+{
+  "id": "1022",
+  "name": "Orbit Deck",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#5a6270",
+    "checker_color": "#3e4654",
+    "checker_size": 2.0,
+    "line_color": "#d8f0ff",
+    "grass_tex": "grass.png",
+    "grass_tint": "#07080c",
+    "grass_tip_color": "#07080c",
+    "grass_patch_color": "#07080c",
+    "grass_grad_top": "#07080c",
+    "grass_grad_bottom": "#07080c",
+    "hill_tint": "#07080c"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 1.15,
+    "ambient": "#6a88b0",
+    "fog_color": "#101018"
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ]
+  },
+  "type": "stage",
+  "label": "Orbit Deck",
+  "preview": "preview.png",
+  "base_stage": "grass"
+}

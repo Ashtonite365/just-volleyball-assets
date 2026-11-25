@@ -48,6 +48,10 @@ https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/<commit>/m
 | 1001 | Crimson Candy Outfit | outfit | `outfits/1001_crimson_candy/` |
 | 1002 | Champion Cap | accessory | `accessories/1002_champion_cap/` |
 | 1003 | Flame Tail | accessory | `accessories/1003_flame_tail/` |
+| 1022 | Orbit Deck | stage | `courts/1022_orbit_deck/` |
+| 1025 | Community Dojo | stage | `courts/1025_community_dojo/` |
+| 1026 | Quantum Realm | stage | `courts/1026_quantum_realm/` |
+| 1027 | Midnight Neon Gym | stage | `courts/1027_midnight_neon_gym/` |
 
 Further packs will be added here as they are published.
 

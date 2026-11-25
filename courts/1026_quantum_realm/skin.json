@@ -1,0 +1,45 @@
+{
+  "id": "1026",
+  "name": "Quantum Realm",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#3a1458",
+    "checker_color": "#240c40",
+    "checker_size": 2.0,
+    "line_color": "#5cffe8",
+    "grass_tex": "grass.png",
+    "grass_tint": "#1a0a30",
+    "grass_tip_color": "#ff64d0",
+    "grass_patch_color": "#5cffe8",
+    "grass_grad_top": "#402060",
+    "grass_grad_bottom": "#100820",
+    "hill_tint": "#100820"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 1.1,
+    "ambient": "#6040a0",
+    "fog_color": "#1a0a30"
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ]
+  },
+  "type": "stage",
+  "label": "Quantum Realm",
+  "preview": "preview.png",
+  "base_stage": "grass"
+}

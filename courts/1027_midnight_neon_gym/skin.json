@@ -1,0 +1,67 @@
+{
+  "id": "1027",
+  "name": "Midnight Neon Gym",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#1a1e32",
+    "checker_color": "#121526",
+    "checker_size": 2.0,
+    "line_color": "#3df0e0",
+    "grass_tex": "grass.png",
+    "grass_tint": "#0e2030",
+    "grass_tip_color": "#5a80ff",
+    "grass_patch_color": "#3a2080",
+    "grass_grad_top": "#1a3050",
+    "grass_grad_bottom": "#080c18",
+    "hill_tint": "#12182a"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 0.85,
+    "ambient": "#1a2848",
+    "fog_color": "#060812"
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ],
+    "hide": [
+      "Gym walls",
+      "Gym walls_001",
+      "Ceiling beams",
+      "Ceiling tubes",
+      "Ceiling tubes L",
+      "Ceiling tubes mirror",
+      "Lights",
+      "Seats",
+      "Seats (corner)",
+      "Rows (black)",
+      "Handrails",
+      "Handrails ",
+      "Handrails (corner)",
+      "Pillars",
+      "Pillars (side)",
+      "Top floor",
+      "Gym doors",
+      "GymMats",
+      "Step First",
+      "Steps (gray_metal)"
+    ]
+  },
+  "type": "stage",
+  "label": "Midnight Neon Gym",
+  "preview": "preview.png",
+  "base_stage": "school"
+}
