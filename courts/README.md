@@ -8,5 +8,6 @@ Original court and stage packs.
 | 1025 | Community Dojo | `1025_community_dojo/` |
 | 1026 | Quantum Realm | `1026_quantum_realm/` |
 | 1027 | Midnight Neon Gym | `1027_midnight_neon_gym/` |
+| 1028 | Ocean Floor | `1028_ocean_floor/` |
 
 Each pack folder contains `pack.zip`, `skin.json`, environment meshes, textures, and preview images.

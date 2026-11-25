@@ -1,0 +1,46 @@
+{
+  "id": "1028",
+  "name": "Ocean Floor",
+  "kind": "global",
+  "court": {
+    "floor_tex": "court_floor.png",
+    "floor_color": "#e8d2a0",
+    "checker_color": "#d0b888",
+    "checker_size": 2.0,
+    "line_color": "#f2f8ff",
+    "grass_tex": "grass.png",
+    "grass_tint": "#dcc8a0",
+    "grass_tip_color": "#f0e6c8",
+    "grass_patch_color": "#c8b078",
+    "grass_grad_top": "#e8d8b0",
+    "grass_grad_bottom": "#c4a878",
+    "hill_tint": "#1a4060"
+  },
+  "sky": {
+    "panorama": "sky.png",
+    "energy": 0.9,
+    "ambient": "#204888",
+    "fog_color": "#0a3060",
+    "fog_density": 0.025
+  },
+  "environment": {
+    "mesh": "env.glb",
+    "hide_env_props": true,
+    "hide_ground": true,
+    "baked_lighting": true,
+    "lod": [
+      {
+        "mesh": "env.glb",
+        "visible_end": 40
+      },
+      {
+        "mesh": "env_lod1.glb",
+        "visible_begin": 35
+      }
+    ]
+  },
+  "type": "stage",
+  "label": "Ocean Floor",
+  "preview": "preview.png",
+  "base_stage": "tutorial"
+}
