@@ -52,6 +52,7 @@ https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/<commit>/m
 | 1025 | Community Dojo | stage | `courts/1025_community_dojo/` |
 | 1026 | Quantum Realm | stage | `courts/1026_quantum_realm/` |
 | 1027 | Midnight Neon Gym | stage | `courts/1027_midnight_neon_gym/` |
+| BEA0 | Plump Bean | model | `models/BEA0_plump_bean/` |
 
 Further packs will be added here as they are published.
 

@@ -500,6 +500,38 @@
           "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1027_midnight_neon_gym/preview_200x86.png"
         }
       ]
+    },
+    {
+      "id": "BEA0",
+      "name": "Plump Bean",
+      "label": "Plump Bean",
+      "type": "model",
+      "kind": "model",
+      "version": "1.0.0",
+      "sha256": "10531e3b10746a31812dde1efb0071d1b7e39ab6b7745182ec9ad38270da6a92",
+      "size": 298342,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/pack.zip",
+      "path": "models/BEA0_plump_bean",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "f0712e911bada34084d8a6c6467b9fbf6886ea4c1a28fb20d93a004cad718e5c",
+          "size": 287,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/skin.json"
+        },
+        {
+          "path": "aero_bean.glb",
+          "sha256": "eeee81dc0ecdd02b71d64975efdc2c7aed0ce42c3472a2774f7c2aed34044645",
+          "size": 621692,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/aero_bean.glb"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "bde7b6466e38590f83b7e5653cabc7f40c66ae36243e77ca8beac295415e0870",
+          "size": 140484,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/preview.png"
+        }
+      ]
     }
   ]
 }
