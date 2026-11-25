@@ -45,6 +45,9 @@ https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/<commit>/m
 | 1010 | Fire & Lava | ball | `balls/1010_fire_lava/` |
 | 1011 | Beach Ball | ball | `balls/1011_beach/` |
 | 1012 | Classic Tri-Colour | ball | `balls/1012_tricolor/` |
+| 1013 | Neon Synthwave | ball | `balls/1013_neon_synthwave/` |
+| 1014 | Watermelon | ball | `balls/1014_watermelon/` |
+| 1015 | Retro Leather | ball | `balls/1015_retro_leather/` |
 | 1001 | Crimson Candy Outfit | outfit | `outfits/1001_crimson_candy/` |
 | 1002 | Champion Cap | accessory | `accessories/1002_champion_cap/` |
 | 1003 | Flame Tail | accessory | `accessories/1003_flame_tail/` |

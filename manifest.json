@@ -532,6 +532,102 @@
           "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/models/BEA0_plump_bean/preview.png"
         }
       ]
+    },
+    {
+      "id": "1013",
+      "name": "Neon Synthwave",
+      "label": "Neon",
+      "type": "ball",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "26e2120086e97da8d902c662e87af23cf8ca91bab7e4d841b3b4f4ae451e3afa",
+      "size": 1463874,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/pack.zip",
+      "path": "balls/1013_neon_synthwave",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "30db3c0b82aa48b4df4ee569511fb5830e43a9db391a15276354c65250d8a126",
+          "size": 237,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/skin.json"
+        },
+        {
+          "path": "ball_tex.png",
+          "sha256": "4d17db8413b696ffb9f2fa688e0b78d876c681be3594c29efa7d97bd9c236644",
+          "size": 1242507,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/ball_tex.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "af4b92c7efe5ede36a5d280c1fd1ab6ced26a2c1cfc74977fae811edc22b453b",
+          "size": 227042,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1013_neon_synthwave/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1014",
+      "name": "Watermelon",
+      "label": "Watermelon",
+      "type": "ball",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "43ad0f040dda8ce90f3e99c992a8bf0264ac28e6475164436de6f90e991db855",
+      "size": 722187,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/pack.zip",
+      "path": "balls/1014_watermelon",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "043f24b0d84153f88f9e9a1454e8a92f8ccd233e7cc0aecc324a40cfba729d68",
+          "size": 239,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/skin.json"
+        },
+        {
+          "path": "ball_tex.png",
+          "sha256": "cf8834f3cffd2ab8b3341fd9441b1e37f32d346b354959c9502b74e3823738e1",
+          "size": 608736,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/ball_tex.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "a1d3b6771c4fec212380b74337bc1279048f441474caeaca1ea256748b04937b",
+          "size": 114198,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1014_watermelon/preview.png"
+        }
+      ]
+    },
+    {
+      "id": "1015",
+      "name": "Retro Leather",
+      "label": "Leather",
+      "type": "ball",
+      "kind": "global",
+      "version": "1.0.0",
+      "sha256": "03ec0c5c3658325bf68b7a321ff4937db67058e4e07b700d8e922a94d5586541",
+      "size": 877783,
+      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/pack.zip",
+      "path": "balls/1015_retro_leather",
+      "files": [
+        {
+          "path": "skin.json",
+          "sha256": "cb925317b9d8e2783e004e5183c2f05519379844d91951a567d363a7946f402f",
+          "size": 239,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/skin.json"
+        },
+        {
+          "path": "ball_tex.png",
+          "sha256": "a0339640419e8239f1866c7e70fe6ff423d60d02550aa4aef4d003ab35118756",
+          "size": 756465,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/ball_tex.png"
+        },
+        {
+          "path": "preview.png",
+          "sha256": "e4f426b9514e298ee419829ac65414f6c0ad42d392a72dcae8fd8fbae7c741f5",
+          "size": 121274,
+          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/balls/1015_retro_leather/preview.png"
+        }
+      ]
     }
   ]
 }

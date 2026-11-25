@@ -1,0 +1,13 @@
+{
+  "id": "1013",
+  "name": "Neon Synthwave",
+  "label": "Neon",
+  "kind": "global",
+  "type": "ball",
+  "preview": "preview.png",
+  "ball": {
+    "albedo_tex": "ball_tex.png",
+    "wrap": "equirect",
+    "albedo_color": "#ffffff"
+  }
+}
