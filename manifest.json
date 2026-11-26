@@ -121,44 +121,6 @@
       ]
     },
     {
-      "id": "1005",
-      "name": "Royal Court & Autumn Grass",
-      "label": "Royal Court",
-      "type": "stage",
-      "kind": "global",
-      "version": "1.0.0",
-      "sha256": "be4a56be9c87b4912c3b3419c6407d715bc2ca9f528b314fda6b38ea42ca81ed",
-      "size": 60929,
-      "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1005_royal_court/pack.zip",
-      "path": "courts/1005_royal_court",
-      "files": [
-        {
-          "path": "skin.json",
-          "sha256": "aa7949ee56d2656ff4c56378f92d4ea5beffe935c1064e7cb86e2301875b1758",
-          "size": 1579,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1005_royal_court/skin.json"
-        },
-        {
-          "path": "court_floor.png",
-          "sha256": "6fe36512826d7a7fa3fb3523251cd33e797a1381623467b0dddf67ff325831cc",
-          "size": 2360,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1005_royal_court/court_floor.png"
-        },
-        {
-          "path": "autumn_grass.png",
-          "sha256": "9f4bb3546875595b9a87fc4d6b4dc80cc3497dc6371fbdb4be449634a19dd9fc",
-          "size": 881,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1005_royal_court/autumn_grass.png"
-        },
-        {
-          "path": "preview.png",
-          "sha256": "939b18194feadc061b9efacb1a45c56a9e56146159eb992a87f420be144791af",
-          "size": 59435,
-          "download_url": "https://raw.githubusercontent.com/Ashtonite365/just-volleyball-assets/main/courts/1005_royal_court/preview.png"
-        }
-      ]
-    },
-    {
       "id": "1006",
       "name": "Galaxy",
       "label": "Galaxy",

@@ -4,7 +4,6 @@ Original court and stage packs.
 
 | id | name | path |
 |----|------|------|
-| 1005 | Royal Court & Autumn Grass | `1005_royal_court/` |
 | 1020 | Sunset Pier | `1020_sunset_pier/` |
 | 1021 | Inside a Monster | `1021_inside_a_monster/` |
 | 1022 | Orbit Deck | `1022_orbit_deck/` |
