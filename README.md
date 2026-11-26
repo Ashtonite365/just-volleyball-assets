@@ -46,6 +46,7 @@ Each pack folder has a `skin.json` whose first field is `source_url`, plus a `fi
 | `1001` | Crimson Candy Outfit | `outfits/1001_crimson_candy` |
 | `1002` | Champion Cap | `accessories/1002_champion_cap` |
 | `1003` | Flame Tail | `accessories/1003_flame_tail` |
+| `1005` | Royal Court & Autumn Grass | `courts/1005_royal_court` |
 | `1006` | Galaxy | `balls/1006_galaxy` |
 | `1010` | Fire & Lava | `balls/1010_fire_lava` |
 | `1011` | Beach Ball | `balls/1011_beach` |
